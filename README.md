@@ -6,3 +6,5 @@ Please leave the note in the footer which annotes I created the page, don't remo
 If you have found someone has removed it, feel free to open an Issue Request on this repo.
 
 Feel free to customize everything else to your liking.
+
+![Preview Screenshot](https://i.ibb.co/Prn49Yx/image.png)
